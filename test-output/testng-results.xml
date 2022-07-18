@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[TC Passed statuscode matched]]>
+    </line>
+    <line>
+      <![CDATA[TC Passed statusline matched]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-17T18:31:58 IST" name="Default suite" finished-at="2022-07-17T18:32:01 IST" duration-ms="2539">
+    <groups>
+    </groups>
+    <test started-at="2022-07-17T18:31:58 IST" name="Default test" finished-at="2022-07-17T18:32:01 IST" duration-ms="2539">
+      <class name="TC002_POST_Response">
+        <test-method signature="validate_post()[pri:0, instance:TC002_POST_Response@506ae4d4]" started-at="2022-07-17T18:31:58 IST" name="validate_post" finished-at="2022-07-17T18:32:01 IST" duration-ms="2490" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC Passed statuscode matched]]>
+            </line>
+            <line>
+              <![CDATA[TC Passed statusline matched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validate_post -->
+      </class> <!-- TC002_POST_Response -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
